@@ -1,7 +1,7 @@
 {
   "id": "translation-DMG-fr",
   "title": "D&D 5e - Traduction FR - Guide du Maître de Donjon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -45,5 +45,5 @@
     "translation-DMG-fr.js"
   ],
   "manifest": "https://raw.githubusercontent.com/wirgeen/translation-DMG-fr/master/module.json",
-  "download": "https://github.com/wirgeen/translation-DMG-fr/releases/download/v1.0.0/translation-DMG-fr.zip"
+  "download": "https://github.com/wirgeen/translation-DMG-fr/releases/download/v1.0.1/translation-DMG-fr.zip"
 }
